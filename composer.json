@@ -1,0 +1,34 @@
+{
+    "name" : "stev/geonames-bundle",
+    "description" : "Symfony 2 Bundle for Geonames API",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Stefan Matei",
+        "email" : "stev.matei@gmail.com"
+    }],
+    "keywords" : [
+        "geonames bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+        "php": ">=5.3",
+        "symfony/framework-bundle": "2.*",
+        "symfony/symfony": "2.*",
+        "nikkobautista/geonames": "dev-master"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Stev\\GeonamesBundle\\" : ""
+        }
+    },
+    "target-dir" : "stev/GeonamesBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "some_version-dev"
+        }
+    }
+}
