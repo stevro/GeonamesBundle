@@ -20,10 +20,10 @@
     },
     "autoload": {
         "psr-0": {
-            "Stev\\GeonamesBundle\\": ""
+            "Stev\\GeonamesBundle\\": "src"
         }
     },
-    "target-dir": "stev/GeonamesBundle",
+    "target-dir": "src/GeonamesBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "0.1.x-dev"
