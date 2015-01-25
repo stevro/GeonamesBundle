@@ -1,3 +1,5 @@
+http://stevro.github.io/GeonamesBundle/
+
 ## 1. Installation:
 <pre><code>
 "stev/geonames-bundle": "0.1.*@dev"
