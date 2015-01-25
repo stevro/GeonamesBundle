@@ -1,5 +1,7 @@
 ## 1. Installation:
-
+<pre><code>
+"stev/geonames-bundle": "0.1.*@dev"
+</code></pre>
 ## 2. Usage
 <pre><code>
 /* @var $geonames \Geonames\Geonames */
