@@ -2,7 +2,7 @@
 
 ## 2. Usage
 <pre><code>
-/* @var $search \Geonames\Geonames */
+/* @var $geonames \Geonames\Geonames */
 $geonames = $this-get('stev.geonames')-getGeonames();
 	$result = $geonames-findNearbyPostalCodes(array(
 	'postalcode' = 712122
