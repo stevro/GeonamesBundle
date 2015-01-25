@@ -16,7 +16,7 @@
         "php": ">=5.3",
         "symfony/framework-bundle": "2.*",
         "symfony/symfony": "2.*",
-        "nikkobautista/geonames": "1.0.1"
+        "nikkobautista/geonames": "dev-master"
     },
     "autoload" : {
         "psr-0" : {
