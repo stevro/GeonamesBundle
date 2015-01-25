@@ -19,16 +19,14 @@
         "nikkobautista/geonames": "dev-master"
     },
     "autoload" : {
-        "psr-4" : {
+        "psr-0" : {
             "Stev\\GeonamesBundle\\" : ""
         }
     },
     "target-dir" : "stev/GeonamesBundle",
-    "repositories" : [{
-    }],
     "extra" : {
     "branch-alias" : {
-            "dev-master" : "some_version-dev"
+            "dev-master" : "master-dev"
         }
     }
 }
