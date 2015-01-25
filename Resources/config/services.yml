@@ -1,0 +1,4 @@
+services:
+    stev.geonames:
+        class: Stev\GeonamesBundle\Services\GeonamesService
+        arguments: [%stev_geonames%]
